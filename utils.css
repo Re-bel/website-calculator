@@ -1,0 +1,23 @@
+.textCentre{
+    text-align: center;
+}
+
+.background{
+    background-color: forestgreen;
+}
+
+.mxAuto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flexCol{
+    flex-direction: column;
+}
+
+.itemCentre{
+    align-items: center;
+}
